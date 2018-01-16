@@ -5,7 +5,7 @@ Date Edited: 1/14/2018 */
 // The function should take two parameters: user's name and user's favorite color.
 // The function should print out a message to the user: "Hey, [user's name], I see you like [user's favorite color]."
 function printPersonalizedMessage(userName, userColor){
-   console.log(`Hey, ${userName}, I see you like ${userColor}.`)
+   console.log(`Hey, ${userName}, I see you like ${userColor}.`);
 }
 
 // Call the function using your name and your favorite color.
